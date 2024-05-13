@@ -18,4 +18,4 @@ jobs:
 
     steps:
       - name: Check if bat24 page is up
-        run: curl -sSf https://begvog.github.io/bat24_workshop
+        run: curl -sSf https://begvog.github.io/bat24_workshop/
